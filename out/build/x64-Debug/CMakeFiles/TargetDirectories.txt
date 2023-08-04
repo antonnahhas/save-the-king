@@ -1,0 +1,9 @@
+C:/Users/User/Desktop/project_Raed_Barhoum_Anton_Nahhas/out/build/x64-Debug/CMakeFiles/project_Raed_Barhoum_Anton_Nahhas.dir
+C:/Users/User/Desktop/project_Raed_Barhoum_Anton_Nahhas/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/project_Raed_Barhoum_Anton_Nahhas/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/project_Raed_Barhoum_Anton_Nahhas/out/build/x64-Debug/include/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/project_Raed_Barhoum_Anton_Nahhas/out/build/x64-Debug/include/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/project_Raed_Barhoum_Anton_Nahhas/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/project_Raed_Barhoum_Anton_Nahhas/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/project_Raed_Barhoum_Anton_Nahhas/out/build/x64-Debug/resources/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/project_Raed_Barhoum_Anton_Nahhas/out/build/x64-Debug/resources/CMakeFiles/rebuild_cache.dir
